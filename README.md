@@ -24,8 +24,6 @@ The repository is divided into activity folders so that each output is easy to l
 
 🎤 Activity 01: Presentation Design Principles
 
-View Activity 01 →
-
 This section contains presentation-based activities that helped me practice communicating information through effective structure, layout, and visual design.
 
 Featured work includes:
@@ -42,8 +40,6 @@ Reflections on design choices
 
 🎨 Activity 02: Color Palette and Typography
 
-View Activity 02 →
-
 This section explores how visual elements affect the clarity, mood, and overall appearance of information.
 
 Design areas explored:
@@ -59,8 +55,6 @@ Composition and spacing
 Layout consistency
 
 📱 Activity 03: Social Media Infographics
-
-View Activity 03 →
 
 This section presents infographic projects designed to communicate information in a simple, organized, and engaging format. These outputs demonstrate how text, graphics, color, and layout can work together to deliver a clear message.
 
