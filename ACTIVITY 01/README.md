@@ -1,16 +1,16 @@
-# Activity 01: Presentation Design Principles
+Activity 01: Presentation Design Principles
 
-## Overview
+Overview
 
-The first activity focused on applying presentation and visual design principles to create a clear and engaging promotional material.
+The first activity focused on applying presentation and visual design principles to create clear and engaging promotional material.
 
 For this activity, I designed a poster announcing a free coffee booth at Arrupe Hall on Tuesday, August 4, 2026. Its main promotional message is:
 
 “Free coffee. No catch. Just caffeine and good vibes.”
 
-The purpose of the poster is to capture the attention of students, communicate the offer immediately, and provide the important event details in an organized way. I combined typography, illustrations, color, spacing, and decorative patterns to give the poster a friendly campus atmosphere.
+The purpose of the poster is to capture the attention of students, communicate the offer immediately, and present the important event details in an organized way. I combined typography, illustrations, color, spacing, and decorative patterns to give the poster a friendly campus atmosphere.
 
-Instead of using a realistic coffee-shop style, I chose a limited blue-and-cream palette and playful line illustrations. This allowed the design to appear lively and creative while still connecting visually with the identity of Ateneo de Davao University and the School of Nursing.
+Instead of using a realistic coffee-shop style, I chose a limited blue-and-cream color palette and playful line illustrations. This allowed the design to appear lively and creative while still connecting visually with the identity of Ateneo de Davao University and the School of Nursing.
 
 My Design Concept
 
@@ -20,7 +20,7 @@ The coffee theme is shown through several hand-drawn illustrations, including cu
 
 I used deep blue and warm cream as the main colors. The blue reflects the visual identity associated with Ateneo, while the cream background adds warmth and prevents the design from feeling too dark or formal. Using only two dominant colors also helps the different sections look connected.
 
-The checkerboard patterns at the top and bottom add movement and personality to the poster. They give the design a slightly retro café-inspired appearance while framing the information inside the page. The School of Nursing seal further identifies the group connected with the activity.
+The checkerboard patterns at the top and bottom add movement and personality to the poster. They give the design a slightly retro, café-inspired appearance while framing the information inside the page. The School of Nursing seal further identifies the group connected with the activity.
 
 Overall, I wanted the poster to feel energetic, student-friendly, and visually memorable while keeping the event information readable.
 
@@ -72,7 +72,7 @@ The blue panel also emphasizes the event details by separating them from the res
 
 6. Repetition and Consistency
 
-Repetition is present throughout the poster to create a unified appearance.
+Repetition and consistency are present throughout the poster to create a unified appearance.
 
 The same blue-and-cream colors are repeated in the text, borders, illustrations, and information panel. Coffee cups and hand gestures appear in different areas, reinforcing the theme without relying only on written information.
 
@@ -126,12 +126,42 @@ The activity also helped me understand how asymmetrical balance, repetition, pro
 
 Activity Summary
 
-Created: Digital Promotional Poster
-Event: Free Coffee Booth at Arrupe Hall
-Date: Tuesday, August 4, 2026
-Theme: Coffee, Student Energy, and Ateneo Identity
-Color Palette: Deep Blue and Warm Cream
-Main Message: “Free coffee. No catch. Just caffeine and good vibes.”
-Design Focus: Creating a clear, lively, and student-friendly promotional poster
-Key Design Principles: Visual Hierarchy, Contrast, Alignment, Asymmetrical Balance, Emphasis, Repetition, Consistency, Proximity, Typography, Simplicity, and Negative Space
-Main Learning: Thoughtful use of design principles can make promotional information more organized, memorable, and visually effective.
+Category
+
+Details
+
+Created
+
+Digital Promotional Poster
+
+Event
+
+Free Coffee Booth at Arrupe Hall
+
+Date
+
+Tuesday, August 4, 2026
+
+Theme
+
+Coffee, Student Energy, and Ateneo Identity
+
+Color Palette
+
+Deep Blue and Warm Cream
+
+Main Message
+
+“Free coffee. No catch. Just caffeine and good vibes.”
+
+Design Focus
+
+Creating a clear, lively, and student-friendly promotional poster
+
+Key Design Principles
+
+Visual Hierarchy, Contrast, Alignment, Asymmetrical Balance, Emphasis, Repetition, Consistency, Proximity, Typography, Simplicity, and Negative Space
+
+Main Learning
+
+Thoughtful use of design principles can make promotional information more organized, memorable, and visually effective.
