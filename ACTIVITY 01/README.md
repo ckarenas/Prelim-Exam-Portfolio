@@ -1,7 +1,5 @@
 # Activity 01: Presentation Design Principles
 
-![Activity 1 Promotional Poster](./activity-01-poster.png)
-
 ## Overview
 
 The first activity focused on applying presentation and visual design principles to create a clear and engaging promotional material.
