@@ -85,16 +85,15 @@ This activity showed us how Google Meet and Google Forms can support communicati
 ---
 
 ## 📄 Activity Files and Links
-
 The following files and links contain our group presentation, the quiz score, and the interactive Google Forms quiz used for this activity.
 
 ### 🎥 Group Presentation
 
-[View Google Meet and Google Forms Presentation →](./GROUP-4-FORMS-AND-MEET-PPT.pdf)
+[📥 Download the Google Meet and Google Forms Presentation →](./GROUP-4-FORMS-AND-MEET-PPT.pdf?download=1)
 
 ### 📊 Quiz Score
 
-[View My Google Meet and Google Forms Quiz Score →](./GE-4120-_-G4_Quiz.pdf)
+[📥 Download My Quiz Score →](./GE-4120-_-G4_Quiz.pdf?download=1)
 
 ### ✅ Interactive Google Forms Quiz
 
